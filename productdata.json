@@ -69,6 +69,20 @@
       "name": "MSI Gaming Raider GE66",
       "price": 414990,
       "description": "Intel 12th Gen. i7-12700H, 17.3 Nvidia RTX 3080Ti"
+    },
+    {
+      "id": "11",
+      "img": "https://m.media-amazon.com/images/I/71cRA3lD-8L._SL1500_.jpg",
+      "name": "MSI Sword 15 A12VF",
+      "price": 105990,
+      "description": "Intel 12th Gen. i7-12650H GeForce RTX4060"
+    },
+    {
+      "id": "12",
+      "img": "https://m.media-amazon.com/images/I/61spxq2LldL._SL1500_.jpg",
+      "name": "HP Pavilion Gaming AMD Ryzen 5 ",
+      "price": 63000,
+      "description": "AMD Ryzen 5 5600H Processor 15.6 8GB/512GB SSD"
     }
   ]
 }
