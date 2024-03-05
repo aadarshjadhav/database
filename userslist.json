@@ -31,6 +31,15 @@
       "email": "pritammane@gmail.com",
       "password": "pritammane1234",
       "isadmin": false
+    },
+    ,
+    {
+      "id": "0f95",
+      "fullname": "sheetal",
+      "username": "sheetal1511",
+      "email": "sheetal@gmail.com",
+      "password": "sheetal1511",
+      "isadmin": false
     }
   ]
 }
